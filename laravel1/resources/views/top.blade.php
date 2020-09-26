@@ -94,7 +94,7 @@
                     class Common {
 
                         const APIURL = "http://api.openweathermap.org/data/2.5/forecast?q=Tokyo,jp&APPID=";
-                        const APIKEY = "3e7800fe7b5aeeb9f3b34e8585493ae9";
+                        const APIKEY = "APIKEY";
                         const VIEWLIST = "7";
                         const WINDLIST = array("北","北北東","北東", "東北東", "東", "東南東", "南東", "南南東", "南", "南南西", "南西", "西南西", "西", "西北西", "北西", "北北西", "北");
 
